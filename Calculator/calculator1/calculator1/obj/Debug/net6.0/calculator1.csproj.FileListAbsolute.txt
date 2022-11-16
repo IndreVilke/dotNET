@@ -1,0 +1,15 @@
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.csproj.AssemblyReference.cache
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.AssemblyInfoInputs.cache
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.AssemblyInfo.cs
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.csproj.CoreCompileInputs.cache
+C:\Indre_test\Calculator\calculator1\calculator1\bin\Debug\net6.0\calculator1.exe
+C:\Indre_test\Calculator\calculator1\calculator1\bin\Debug\net6.0\calculator1.deps.json
+C:\Indre_test\Calculator\calculator1\calculator1\bin\Debug\net6.0\calculator1.runtimeconfig.json
+C:\Indre_test\Calculator\calculator1\calculator1\bin\Debug\net6.0\calculator1.dll
+C:\Indre_test\Calculator\calculator1\calculator1\bin\Debug\net6.0\calculator1.pdb
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.dll
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\refint\calculator1.dll
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.pdb
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\calculator1.genruntimeconfig.cache
+C:\Indre_test\Calculator\calculator1\calculator1\obj\Debug\net6.0\ref\calculator1.dll
