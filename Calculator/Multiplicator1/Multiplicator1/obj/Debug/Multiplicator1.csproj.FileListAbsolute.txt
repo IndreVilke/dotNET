@@ -1,0 +1,8 @@
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\obj\Debug\Multiplicator1.csproj.AssemblyReference.cache
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\obj\Debug\Multiplicator1.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\obj\Debug\Multiplicator1.csproj.CoreCompileInputs.cache
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\bin\Debug\Multiplicator1.exe.config
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\bin\Debug\Multiplicator1.exe
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\bin\Debug\Multiplicator1.pdb
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\obj\Debug\Multiplicator1.exe
+C:\Indre_test\Calculator\Multiplicator1\Multiplicator1\obj\Debug\Multiplicator1.pdb

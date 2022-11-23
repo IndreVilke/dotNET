@@ -1,0 +1,8 @@
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\obj\Debug\ConsoleApp1Calc.csproj.AssemblyReference.cache
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\obj\Debug\ConsoleApp1Calc.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\obj\Debug\ConsoleApp1Calc.csproj.CoreCompileInputs.cache
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\bin\Debug\ConsoleApp1Calc.exe.config
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\bin\Debug\ConsoleApp1Calc.exe
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\bin\Debug\ConsoleApp1Calc.pdb
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\obj\Debug\ConsoleApp1Calc.exe
+C:\Indre_test\Calc\ConsoleApp1Calc\ConsoleApp1Calc\obj\Debug\ConsoleApp1Calc.pdb
