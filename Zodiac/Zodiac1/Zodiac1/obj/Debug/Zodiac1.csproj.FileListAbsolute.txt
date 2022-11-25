@@ -1,0 +1,8 @@
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\obj\Debug\Zodiac1.csproj.AssemblyReference.cache
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\obj\Debug\Zodiac1.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\obj\Debug\Zodiac1.csproj.CoreCompileInputs.cache
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\bin\Debug\Zodiac1.exe.config
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\bin\Debug\Zodiac1.exe
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\bin\Debug\Zodiac1.pdb
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\obj\Debug\Zodiac1.exe
+C:\Indre_test\Zodiac\Zodiac1\Zodiac1\obj\Debug\Zodiac1.pdb
