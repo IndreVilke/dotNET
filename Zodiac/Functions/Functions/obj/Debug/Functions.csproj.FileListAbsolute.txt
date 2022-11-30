@@ -1,0 +1,8 @@
+C:\Indre_test\Zodiac\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Indre_test\Zodiac\Functions\Functions\obj\Debug\Functions.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Zodiac\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Indre_test\Zodiac\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Indre_test\Zodiac\Functions\Functions\bin\Debug\Functions.exe
+C:\Indre_test\Zodiac\Functions\Functions\bin\Debug\Functions.pdb
+C:\Indre_test\Zodiac\Functions\Functions\obj\Debug\Functions.exe
+C:\Indre_test\Zodiac\Functions\Functions\obj\Debug\Functions.pdb
