@@ -1,0 +1,15 @@
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.csproj.AssemblyReference.cache
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.AssemblyInfoInputs.cache
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.AssemblyInfo.cs
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.csproj.CoreCompileInputs.cache
+C:\Indre_test\Array\string\string\bin\Debug\net6.0\string.exe
+C:\Indre_test\Array\string\string\bin\Debug\net6.0\string.deps.json
+C:\Indre_test\Array\string\string\bin\Debug\net6.0\string.runtimeconfig.json
+C:\Indre_test\Array\string\string\bin\Debug\net6.0\string.dll
+C:\Indre_test\Array\string\string\bin\Debug\net6.0\string.pdb
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.dll
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\refint\string.dll
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.pdb
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\string.genruntimeconfig.cache
+C:\Indre_test\Array\string\string\obj\Debug\net6.0\ref\string.dll

@@ -13,14 +13,14 @@ namespace Array
         static void Main(string[] args)
         {
             Console.WriteLine("How long the array should be?");
-            int size = Input.Get_Int();
+            int size = UserInput.Get_Int();
             int[] array = new int[size];
             Console.WriteLine("Please enter" + size + "numbers");
 
             for (int i = 0; i < size; i++)
 
             {
-                array[i] = Input.Get_Int();
+                array[i] = UserInput.Get_Int();
 
             }
 
@@ -28,20 +28,41 @@ namespace Array
         }
     }
 }
-    class Input
-    { 
-            public static int Get_Int()
-            {
-                int number = 0;
+    //class Input
+    //{ 
+      //      public static int Get_Int()
+        //    {
+          //    int number = 0;
                 string numb = Console.ReadLine();
                 if (int.TryParse(numb, out number))
-                    return number;
+                       return number;
                 
-                else
-                    Console.WriteLine("Please enter integer");
+              //  else
+              //      Console.WriteLine("Please enter integer");
 
-            }
+           // }
             
 
+       // }
+
+class UserInput
+{
+    public static int Get_Int()
+    {
+        int input = 0;
+        while (true)
+        {
+            try
+            {
+                input = Int32.Parse(Console.ReadLine());
+                break;
+            }
+
+            catch
+            {
+                Console.WriteLine("The provided input is not valid. Try again.");
+            }
         }
-   
+        return input;
+    }
+}
