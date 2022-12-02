@@ -1,0 +1,3 @@
+C:\Indre_test\Array\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Indre_test\Array\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Array\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
