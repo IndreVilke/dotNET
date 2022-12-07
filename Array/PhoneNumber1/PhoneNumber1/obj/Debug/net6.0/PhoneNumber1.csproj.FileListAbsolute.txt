@@ -1,0 +1,15 @@
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\bin\Debug\net6.0\PhoneNumber1.exe
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\bin\Debug\net6.0\PhoneNumber1.deps.json
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\bin\Debug\net6.0\PhoneNumber1.runtimeconfig.json
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\bin\Debug\net6.0\PhoneNumber1.dll
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\bin\Debug\net6.0\PhoneNumber1.pdb
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.csproj.AssemblyReference.cache
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.AssemblyInfoInputs.cache
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.AssemblyInfo.cs
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.csproj.CoreCompileInputs.cache
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.dll
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\refint\PhoneNumber1.dll
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.pdb
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\PhoneNumber1.genruntimeconfig.cache
+C:\Indre_test\Array\PhoneNumber1\PhoneNumber1\obj\Debug\net6.0\ref\PhoneNumber1.dll
