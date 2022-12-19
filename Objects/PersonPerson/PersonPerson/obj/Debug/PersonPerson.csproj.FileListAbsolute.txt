@@ -1,0 +1,3 @@
+C:\Indre_test\Objects\PersonPerson\PersonPerson\obj\Debug\PersonPerson.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\PersonPerson\PersonPerson\obj\Debug\PersonPerson.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Objects\PersonPerson\PersonPerson\obj\Debug\PersonPerson.csproj.CoreCompileInputs.cache
