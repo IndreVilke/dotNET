@@ -1,0 +1,5 @@
+C:\Indre_test\Objects\Ex3car\Ex3car\obj\Debug\net6.0\Ex3car.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\Ex3car\Ex3car\obj\Debug\net6.0\Ex3car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Indre_test\Objects\Ex3car\Ex3car\obj\Debug\net6.0\Ex3car.AssemblyInfoInputs.cache
+C:\Indre_test\Objects\Ex3car\Ex3car\obj\Debug\net6.0\Ex3car.AssemblyInfo.cs
+C:\Indre_test\Objects\Ex3car\Ex3car\obj\Debug\net6.0\Ex3car.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Indre_test\Objects\CarNet\CarNet\bin\Debug\CarNet.exe.config
+C:\Indre_test\Objects\CarNet\CarNet\bin\Debug\CarNet.exe
+C:\Indre_test\Objects\CarNet\CarNet\bin\Debug\CarNet.pdb
+C:\Indre_test\Objects\CarNet\CarNet\obj\Debug\CarNet.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\CarNet\CarNet\obj\Debug\CarNet.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Objects\CarNet\CarNet\obj\Debug\CarNet.csproj.CoreCompileInputs.cache
+C:\Indre_test\Objects\CarNet\CarNet\obj\Debug\CarNet.exe
+C:\Indre_test\Objects\CarNet\CarNet\obj\Debug\CarNet.pdb

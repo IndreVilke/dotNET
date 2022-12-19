@@ -1,0 +1,5 @@
+C:\Indre_test\Objects\PersonClassObject\PersonClassObject\obj\Debug\net6.0\PersonClassObject.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\PersonClassObject\PersonClassObject\obj\Debug\net6.0\PersonClassObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Indre_test\Objects\PersonClassObject\PersonClassObject\obj\Debug\net6.0\PersonClassObject.AssemblyInfoInputs.cache
+C:\Indre_test\Objects\PersonClassObject\PersonClassObject\obj\Debug\net6.0\PersonClassObject.AssemblyInfo.cs
+C:\Indre_test\Objects\PersonClassObject\PersonClassObject\obj\Debug\net6.0\PersonClassObject.csproj.CoreCompileInputs.cache
