@@ -1,0 +1,8 @@
+C:\Indre_test\officer\Officer2\Officer2\bin\Debug\Officer2.exe.config
+C:\Indre_test\officer\Officer2\Officer2\bin\Debug\Officer2.exe
+C:\Indre_test\officer\Officer2\Officer2\bin\Debug\Officer2.pdb
+C:\Indre_test\officer\Officer2\Officer2\obj\Debug\Officer2.csproj.AssemblyReference.cache
+C:\Indre_test\officer\Officer2\Officer2\obj\Debug\Officer2.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\officer\Officer2\Officer2\obj\Debug\Officer2.csproj.CoreCompileInputs.cache
+C:\Indre_test\officer\Officer2\Officer2\obj\Debug\Officer2.exe
+C:\Indre_test\officer\Officer2\Officer2\obj\Debug\Officer2.pdb

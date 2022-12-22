@@ -1,0 +1,3 @@
+C:\Indre_test\ConsoleAppOfficer\ConsoleAppOfficer\obj\Debug\ConsoleAppOfficer.csproj.AssemblyReference.cache
+C:\Indre_test\ConsoleAppOfficer\ConsoleAppOfficer\obj\Debug\ConsoleAppOfficer.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\ConsoleAppOfficer\ConsoleAppOfficer\obj\Debug\ConsoleAppOfficer.csproj.CoreCompileInputs.cache

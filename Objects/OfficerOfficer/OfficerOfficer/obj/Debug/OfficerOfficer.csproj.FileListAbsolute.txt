@@ -1,8 +1,0 @@
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\obj\Debug\OfficerOfficer.csproj.AssemblyReference.cache
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\obj\Debug\OfficerOfficer.csproj.SuggestedBindingRedirects.cache
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\obj\Debug\OfficerOfficer.csproj.CoreCompileInputs.cache
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\bin\Debug\OfficerOfficer.exe.config
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\bin\Debug\OfficerOfficer.exe
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\bin\Debug\OfficerOfficer.pdb
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\obj\Debug\OfficerOfficer.exe
-C:\Indre_test\Objects\OfficerOfficer\OfficerOfficer\obj\Debug\OfficerOfficer.pdb

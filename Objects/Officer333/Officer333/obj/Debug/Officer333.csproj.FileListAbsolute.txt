@@ -1,0 +1,8 @@
+C:\Indre_test\Objects\Officer333\Officer333\bin\Debug\Officer333.exe.config
+C:\Indre_test\Objects\Officer333\Officer333\bin\Debug\Officer333.exe
+C:\Indre_test\Objects\Officer333\Officer333\bin\Debug\Officer333.pdb
+C:\Indre_test\Objects\Officer333\Officer333\obj\Debug\Officer333.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\Officer333\Officer333\obj\Debug\Officer333.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Objects\Officer333\Officer333\obj\Debug\Officer333.csproj.CoreCompileInputs.cache
+C:\Indre_test\Objects\Officer333\Officer333\obj\Debug\Officer333.exe
+C:\Indre_test\Objects\Officer333\Officer333\obj\Debug\Officer333.pdb
