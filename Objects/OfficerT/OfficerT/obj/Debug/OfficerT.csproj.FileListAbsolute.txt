@@ -1,0 +1,8 @@
+C:\Indre_test\Objects\OfficerT\OfficerT\obj\Debug\OfficerT.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\OfficerT\OfficerT\obj\Debug\OfficerT.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Objects\OfficerT\OfficerT\obj\Debug\OfficerT.csproj.CoreCompileInputs.cache
+C:\Indre_test\Objects\OfficerT\OfficerT\bin\Debug\OfficerT.exe.config
+C:\Indre_test\Objects\OfficerT\OfficerT\bin\Debug\OfficerT.exe
+C:\Indre_test\Objects\OfficerT\OfficerT\bin\Debug\OfficerT.pdb
+C:\Indre_test\Objects\OfficerT\OfficerT\obj\Debug\OfficerT.exe
+C:\Indre_test\Objects\OfficerT\OfficerT\obj\Debug\OfficerT.pdb
