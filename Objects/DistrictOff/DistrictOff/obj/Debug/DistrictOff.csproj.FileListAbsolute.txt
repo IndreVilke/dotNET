@@ -1,0 +1,8 @@
+C:\Indre_test\Objects\DistrictOff\DistrictOff\bin\Debug\DistrictOff.exe.config
+C:\Indre_test\Objects\DistrictOff\DistrictOff\bin\Debug\DistrictOff.exe
+C:\Indre_test\Objects\DistrictOff\DistrictOff\bin\Debug\DistrictOff.pdb
+C:\Indre_test\Objects\DistrictOff\DistrictOff\obj\Debug\DistrictOff.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\DistrictOff\DistrictOff\obj\Debug\DistrictOff.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Objects\DistrictOff\DistrictOff\obj\Debug\DistrictOff.csproj.CoreCompileInputs.cache
+C:\Indre_test\Objects\DistrictOff\DistrictOff\obj\Debug\DistrictOff.exe
+C:\Indre_test\Objects\DistrictOff\DistrictOff\obj\Debug\DistrictOff.pdb
