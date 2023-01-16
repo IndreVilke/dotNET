@@ -1,0 +1,8 @@
+C:\Indre_test\Project\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Indre_test\Project\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Indre_test\Project\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Indre_test\Project\Drawing\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Indre_test\Project\Drawing\Drawing\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Project\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Indre_test\Project\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Indre_test\Project\Drawing\Drawing\obj\Debug\Drawing.pdb

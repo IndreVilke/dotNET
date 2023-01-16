@@ -1,0 +1,8 @@
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\bin\Debug\OfficersInDistrict.exe.config
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\bin\Debug\OfficersInDistrict.exe
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\bin\Debug\OfficersInDistrict.pdb
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\obj\Debug\OfficersInDistrict.csproj.AssemblyReference.cache
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\obj\Debug\OfficersInDistrict.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\obj\Debug\OfficersInDistrict.csproj.CoreCompileInputs.cache
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\obj\Debug\OfficersInDistrict.exe
+C:\Indre_test\Objects\OfficersInDistrict\OfficersInDistrict\obj\Debug\OfficersInDistrict.pdb
