@@ -1,0 +1,8 @@
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\obj\Debug\AnimalsHangman.csproj.AssemblyReference.cache
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\obj\Debug\AnimalsHangman.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\obj\Debug\AnimalsHangman.csproj.CoreCompileInputs.cache
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\bin\Debug\AnimalsHangman.exe.config
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\bin\Debug\AnimalsHangman.exe
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\bin\Debug\AnimalsHangman.pdb
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\obj\Debug\AnimalsHangman.exe
+C:\Indre_test\Project\AnimalsHangman\AnimalsHangman\obj\Debug\AnimalsHangman.pdb
