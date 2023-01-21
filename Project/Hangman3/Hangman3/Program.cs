@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AnimalsHangman
+namespace Hangman3
 {
     internal class Program
     {
@@ -12,32 +12,31 @@ namespace AnimalsHangman
         static void Main(string[] args)
 
         {
-            List<Animals> animallist = new List<Animals>();
-            animallist.Add(new Animals("Elephant", "Africa", "big ears"));
-            animallist.Add(new Animals("Cow", "home", "it has horns and hooven"));
-            animallist.Add(new Animals("Wolf", "forest", "it eats redhood"));
-            animallist.Add(new Animals("Tiger", "Asia", "it is very big and dangerous cat"));
-            animallist.Add(new Animals("Monkey", "Africa", "climbs in trees"));
-            animallist.Add(new Animals("Fish", "Ocean", "it has flosses"));
-            animallist.Add(new Animals("Rat", "fields", "eats grain"));
-            animallist.Add(new Animals("Hen", "home", "lays eggs"));
-            animallist.Add(new Animals("Dog", "home", "it barks"));
-            animallist.Add(new Animals("Hamster", "home", "has huge cheeks"));
+            List<Animals3> animallist = new List<Animals3>();
+            animallist.Add(new Animals3("elephant", "Africa", "big ears"));
+            animallist.Add(new Animals3("cow", "home", "has horns and hooven"));
+            animallist.Add(new Animals3("wolf", "forest", "eats redhood"));
+            animallist.Add(new Animals3("tiger", "Asia", "is very big and dangerous cat"));
+            animallist.Add(new Animals3("monkey", "Africa", "climbs in trees"));
+            animallist.Add(new Animals3("fish", "Ocean", "has flosses"));
+            animallist.Add(new Animals3("rat", "fields", "eats grain"));
+            animallist.Add(new Animals3("hen", "home", "lays eggs"));
+            animallist.Add(new Animals3("dog", "home", "barks"));
+            animallist.Add(new Animals3("hamster", "home", "has huge cheeks"));
 
 
             foreach (var animals in animallist)
                 Console.WriteLine(animals);
 
-            int rnd= new Random().Next(0, 9);
-            Console.WriteLine(rnd);
-            Console.WriteLine(animallist[rnd]);
-            Console.WriteLine(animallist[rnd].name);
+            int rnd = new Random().Next(0, 9);
+            
             string animalN = animallist[rnd].name;
             int lettersNmb = animalN.Length;
-            Console.WriteLine(letters);
-                        
+            
+
             char[] guessarray = new char[lettersNmb];
-            Console.Write("Please enter your guess: ");
+            Console.WriteLine("Please guess an animal that lives in: " + animallist[rnd].habitat);
+            Console.WriteLine("Please enter your guess: ");
 
             for (int p = 0; p < lettersNmb; p++)
                 guessarray[p] = '-';
@@ -67,14 +66,18 @@ namespace AnimalsHangman
                 }
 
                 string strguess = string.Concat(guessarray);
-                Console.WriteLine("as a string" + strguess);
+                Console.WriteLine(strguess);
                 if (strguess.Contains("-"))
                 {
                     Console.WriteLine("There is still missing letters");
+                    if (mistakes == 3)
+                    {
+                        Console.WriteLine("The animal " + animallist[rnd].hint);
+                    }
                 }
                 else
                 {
-                    Console.WriteLine("Congratulations, you won");
+                    Console.WriteLine("CONGRATULATIONS, YOU WON");
                     break;
                 }
 
@@ -83,7 +86,7 @@ namespace AnimalsHangman
             if (mistakes == 6)
             {
                 Console.WriteLine("YOU LOST");
-                Console.WriteLine("The mystery word was: " + mysteryWord);
+                Console.WriteLine("The secret word was: " + animalN);
             }
 
 

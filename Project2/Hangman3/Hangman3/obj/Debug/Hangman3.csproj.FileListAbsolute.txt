@@ -1,0 +1,8 @@
+C:\Indre_test\Project2\Hangman3\Hangman3\bin\Debug\Hangman3.exe.config
+C:\Indre_test\Project2\Hangman3\Hangman3\bin\Debug\Hangman3.exe
+C:\Indre_test\Project2\Hangman3\Hangman3\bin\Debug\Hangman3.pdb
+C:\Indre_test\Project2\Hangman3\Hangman3\obj\Debug\Hangman3.csproj.AssemblyReference.cache
+C:\Indre_test\Project2\Hangman3\Hangman3\obj\Debug\Hangman3.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Project2\Hangman3\Hangman3\obj\Debug\Hangman3.csproj.CoreCompileInputs.cache
+C:\Indre_test\Project2\Hangman3\Hangman3\obj\Debug\Hangman3.exe
+C:\Indre_test\Project2\Hangman3\Hangman3\obj\Debug\Hangman3.pdb
