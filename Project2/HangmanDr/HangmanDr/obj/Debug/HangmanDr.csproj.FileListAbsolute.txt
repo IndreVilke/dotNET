@@ -1,0 +1,8 @@
+C:\Indre_test\Project2\HangmanDr\HangmanDr\bin\Debug\HangmanDr.exe.config
+C:\Indre_test\Project2\HangmanDr\HangmanDr\bin\Debug\HangmanDr.exe
+C:\Indre_test\Project2\HangmanDr\HangmanDr\bin\Debug\HangmanDr.pdb
+C:\Indre_test\Project2\HangmanDr\HangmanDr\obj\Debug\HangmanDr.csproj.AssemblyReference.cache
+C:\Indre_test\Project2\HangmanDr\HangmanDr\obj\Debug\HangmanDr.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Project2\HangmanDr\HangmanDr\obj\Debug\HangmanDr.csproj.CoreCompileInputs.cache
+C:\Indre_test\Project2\HangmanDr\HangmanDr\obj\Debug\HangmanDr.exe
+C:\Indre_test\Project2\HangmanDr\HangmanDr\obj\Debug\HangmanDr.pdb

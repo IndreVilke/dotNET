@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{971DA08F-3F8C-4637-81FA-E8404E006AD9}</ProjectGuid>
+    <ProjectGuid>{F561878B-6F5B-472D-8ED1-1D3369E584AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Hangman3</RootNamespace>
-    <AssemblyName>Hangman3</AssemblyName>
+    <RootNamespace>HangmanDr</RootNamespace>
+    <AssemblyName>HangmanDr</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animals3.cs" />
-    <Compile Include="Fruits.cs" />
+    <Compile Include="Animal3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Vegies.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

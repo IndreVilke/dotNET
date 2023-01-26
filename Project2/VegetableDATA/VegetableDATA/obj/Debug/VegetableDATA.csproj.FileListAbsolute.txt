@@ -1,0 +1,8 @@
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\bin\Debug\VegetableDATA.exe.config
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\bin\Debug\VegetableDATA.exe
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\bin\Debug\VegetableDATA.pdb
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\obj\Debug\VegetableDATA.csproj.AssemblyReference.cache
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\obj\Debug\VegetableDATA.csproj.SuggestedBindingRedirects.cache
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\obj\Debug\VegetableDATA.csproj.CoreCompileInputs.cache
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\obj\Debug\VegetableDATA.exe
+C:\Indre_test\Project2\VegetableDATA\VegetableDATA\obj\Debug\VegetableDATA.pdb
