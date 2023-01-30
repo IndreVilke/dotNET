@@ -1,0 +1,10 @@
+elephant; Africa; big ears
+cow, home, has horns and hooves
+wolf, forest, in fairytale eats redhood
+tiger, Asia, is very big and dangerous cat
+monkey, Africa, climbs in trees
+fish, Ocean, has flosses
+rat, fields, eats grain
+hen, home, lays eggs
+dog, home, barks
+hamster, home, has huge cheeks

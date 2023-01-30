@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hangman3
+namespace Hangman4
 {
     internal class Program
     {
@@ -24,7 +24,7 @@ namespace Hangman3
                         
             if (choice.Contains("f"))
             {
-                fileName = "Fruit.txt";
+                fileName = "Fruits.txt";
             }
             else if (choice.Contains("v"))
             {

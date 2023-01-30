@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hangman3
+namespace Hangman4
 {
-
-    class Fruits
+    public class Item
     {
+
         public string name { get; }
         public string habitat { get; }
         public string hint { get; }
 
-        public Fruits(string objName, string objHabitat, string objHint)
+        public Item(string objName, string objHabitat, string objHint)
         {
             this.name = objName;
             this.habitat = objHabitat;
@@ -24,5 +24,7 @@ namespace Hangman3
         {
             return $"Name: {name,-8} Habitat: {habitat,-10} It has: {hint} ";
         }
+
+
     }
 }
