@@ -60,7 +60,7 @@ namespace Hangman_I
 
                 }
 
-                string strguess = string.Concat(guessarray);
+                string strguess = string.Concat(guessarray); // Concatinate separate characters of an array to a string 
                 Console.WriteLine(strguess);
                 if (strguess.Contains("-"))
                 {
